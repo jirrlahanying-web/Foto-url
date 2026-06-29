@@ -39,7 +39,7 @@
 
   <!-- NIK -->
   <text x="28" y="130" font-size="11" fill="rgba(255,255,255,0.55)">NIK</text>
-  <text x="28" y="152" font-size="22" font-weight="bold" fill="white" letter-spacing="4">7827159195569508</text>
+  <text x="28" y="152" font-size="22" font-weight="bold" fill="white" letter-spacing="4">7827161308844436</text>
 
   <!-- Separator -->
   <rect x="20" y="162" width="816" height="1" fill="rgba(255,255,255,0.1)"/>
@@ -53,28 +53,28 @@
   <!-- Data fields -->
   
     <text x="178" y="190" font-size="11" fill="rgba(255,255,255,0.5)">Nama</text>
-    <text x="178" y="208" font-size="13" font-weight="600" fill="white">Zenn admin</text>
+    <text x="178" y="208" font-size="13" font-weight="600" fill="white">/start</text>
   
     <text x="178" y="225" font-size="11" fill="rgba(255,255,255,0.5)">Tempat/Tgl Lahir</text>
-    <text x="178" y="243" font-size="13" font-weight="600" fill="white">Kutub utara / Invalid Date</text>
+    <text x="178" y="243" font-size="13" font-weight="600" fill="white">Newly-toooool / Invalid Date</text>
   
     <text x="178" y="260" font-size="11" fill="rgba(255,255,255,0.5)">Jenis Kelamin</text>
-    <text x="178" y="278" font-size="13" font-weight="600" fill="white">Cowo</text>
+    <text x="178" y="278" font-size="13" font-weight="600" fill="white">Ffffg</text>
   
     <text x="178" y="295" font-size="11" fill="rgba(255,255,255,0.5)">Agama</text>
-    <text x="178" y="313" font-size="13" font-weight="600" fill="white">Iblis</text>
+    <text x="178" y="313" font-size="13" font-weight="600" fill="white">Guf</text>
   
     <text x="178" y="330" font-size="11" fill="rgba(255,255,255,0.5)">Alamat</text>
-    <text x="178" y="348" font-size="13" font-weight="600" fill="white">Jalan iblis keseleding</text>
+    <text x="178" y="348" font-size="13" font-weight="600" fill="white">Gghhg</text>
   
 
   <!-- Right column -->
   
     <text x="540" y="190" font-size="11" fill="rgba(255,255,255,0.5)">Pekerjaan</text>
-    <text x="540" y="208" font-size="13" font-weight="600" fill="white">Raja iblis</text>
+    <text x="540" y="208" font-size="13" font-weight="600" fill="white">Ghf</text>
   
     <text x="540" y="225" font-size="11" fill="rgba(255,255,255,0.5)">Status Perkawinan</text>
-    <text x="540" y="243" font-size="13" font-weight="600" fill="white">Raja dunia iblis</text>
+    <text x="540" y="243" font-size="13" font-weight="600" fill="white">Guy</text>
   
     <text x="540" y="260" font-size="11" fill="rgba(255,255,255,0.5)">Kewarganegaraan</text>
     <text x="540" y="278" font-size="13" font-weight="600" fill="white">WNI</text>
